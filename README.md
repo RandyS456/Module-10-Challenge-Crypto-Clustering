@@ -13,3 +13,6 @@ Optimize Clusters with Principal Component Analysis
 Find the Best Value for k Using the PCA Data
 Cluster the Cryptocurrencies with K-means Using the PCA Data
 Visualize and Compare the Results
+
+
+nbviewer version: https://nbviewer.org/github/RandyS456/Module-10-Challenge-Crypto-Clustering/blob/main/crypto_investments.ipynb
