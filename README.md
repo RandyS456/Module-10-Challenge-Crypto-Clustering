@@ -15,4 +15,4 @@ Cluster the Cryptocurrencies with K-means Using the PCA Data
 Visualize and Compare the Results
 
 
-Please use the following nbviewer version link to view the complete graphic results along with required coding: https://nbviewer.org/github/RandyS456/Module-10-Challenge-Crypto-Clustering/blob/main/crypto_investments.ipynb
+# Please use the following nbviewer version link to view the complete graphic results along with required coding: https://nbviewer.org/github/RandyS456/Module-10-Challenge-Crypto-Clustering/blob/main/crypto_investments.ipynb
