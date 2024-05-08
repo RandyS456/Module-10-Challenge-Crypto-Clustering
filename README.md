@@ -1,5 +1,5 @@
 # Module-10-Challenge-Crypto-Clustering
-Challenge: Crypto Clustering-In this Challenge, we combine your financial Python programming skills with the new unsupervised learning skills that you acquired in this module.
+Challenge: Crypto Clustering-In this Challenge, we combine our financial Python programming skills with the new unsupervised learning skills acquired in this module.
 
 The CSV file provided for this challenge contains price change data of cryptocurrencies in different periods.
 
